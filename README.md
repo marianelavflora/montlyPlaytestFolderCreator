@@ -1,6 +1,6 @@
 
 # montly Playtest Folder Creator
-This is a productivity tool I developed to optimize my daily workflow as a Game QA Engineer. Instead of manually creating directories for every test session, this script handles the entire monthly organization in seconds.
+This is a productivity tool I developed to optimize my daily workflow as a  QA Engineer. Instead of manually creating directories for every test session, this script handles the entire monthly organization in seconds.
 
 #Key Features
 1. Smart Calendar Integration: Automatically detects the current month and year (e.g., 03_March).
